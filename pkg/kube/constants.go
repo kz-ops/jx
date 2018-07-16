@@ -79,9 +79,9 @@ const (
 	// DeploymentExposecontrollerService the name of the Deployment for the Exposecontroller Service
 	DeploymentExposecontrollerService = "exposecontroller-service"
 
-	DefaultEnvironmentGitRepoURL = "https://github.com/jenkins-x/default-environment-charts.git"
+	DefaultEnvironmentGitRepoURL = "https://github.com/kz-ops/default-environment-charts.git"
 
-	DefaultOrganisationGitRepoURL = "https://github.com/jenkins-x/default-organisation.git"
+	DefaultOrganisationGitRepoURL = "https://github.com/kz-ops/default-organisation.git"
 
 	// LabelKind to indicate the kind of auth, such as Git or Issue
 	LabelKind = "jenkins.io/kind"
