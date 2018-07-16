@@ -60,10 +60,10 @@ const (
 	optionNamespace       = "namespace"
 	optionTillerNamespace = "tiller-namespace"
 
-	JenkinsBuildPackURL = "https://github.com/jenkins-x/draft-packs.git"
+	JenkinsBuildPackURL = "https://github.com/kz-ops/draft-packs.git"
 
 	INGRESS_SERVICE_NAME    = "jxing-nginx-ingress-controller"
-	DEFAULT_CHARTMUSEUM_URL = "https://chartmuseum.build.cd.jenkins-x.io"
+	DEFAULT_CHARTMUSEUM_URL = "https://chartmuseum.carzone.cn"
 )
 
 var (
